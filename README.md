@@ -1,8 +1,10 @@
 <h1 align="center">Halil İbrahim Sayın</h1>
 
 <p align="center">
-  Senior .NET Developer · Open Source Builder · Ankara, Türkiye
+  Senior Software Engineer · Backend Architecture · Enterprise .NET Systems
 </p>
+
+<p align="center"><sub><i>Ankara, Türkiye</i></sub></p>
 
 <p align="center">
   <a href="https://sayinbrahim.github.io">Portfolio</a> ·
